@@ -1,2 +1,2 @@
 # portofolio
-A bunch of small or large project i do
+A bunch of small or large projects i do
